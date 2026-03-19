@@ -1,6 +1,6 @@
 # Maison du parfums
 
-Luxury watch e-commerce web app built with a MERN structure:
+maison-parfums e-commerce web app built with a MERN structure:
 
 - `backend`: Express + MongoDB API with seed script
 - `frontend`: React + Vite + Tailwind CSS storefront
