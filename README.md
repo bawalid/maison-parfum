@@ -1,4 +1,4 @@
-# Lux Watches
+# Maison du parfums
 
 Luxury watch e-commerce web app built with a MERN structure:
 
